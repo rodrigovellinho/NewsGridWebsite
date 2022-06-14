@@ -4,8 +4,17 @@
 
 
 <p align="center">
-  <img src="" alt="NewsGridWebsite">
+  <img src="https://github.com/rodrigovellinho/NewsGridWebsite/blob/main/cover1.jpg?raw=true" alt="NewsGridWebsite">
 </p>
+
+<p align="center">
+  <img src="https://github.com/rodrigovellinho/NewsGridWebsite/blob/main/cover2.jpg?raw=true" alt="NewsGridWebsite">
+</p>
+
+<p align="center">
+  <img src="https://github.com/rodrigovellinho/NewsGridWebsite/blob/main/cover3.jpg?raw=true" alt="NewsGridWebsite">
+</p>
+
 
 Link para acesso a aplicação: https://newsgridwebsite2022.netlify.app/
 
